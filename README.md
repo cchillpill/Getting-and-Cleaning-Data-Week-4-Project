@@ -17,4 +17,4 @@ The analysis script does the following in order:
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## Final Output
-The final output is a tidy data set showing a summary of the varibles based on mean and standard deviation for each individual and activity
+The final output is a tidy data set showing a summary of the variables based on mean and standard deviation for each individual and activity
